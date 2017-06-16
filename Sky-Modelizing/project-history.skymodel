@@ -3,7 +3,7 @@
   <xdata.difinition>/// History of  a Day
 <history date="getdate()"><history.events skymodel="ref:event;type:list;" /></history>
 /// Event of Days
-<event time="getdate()" group="string.empty"><title></title><event.objects skymodel="ref:objective;type:list;" /></event>
+<event id="int:0" time="getdate()" group="string.empty"><title></title><event.objects skymodel="ref:objective;type:list;" /></event>
 /// Objects of Event
 <objective type="enum objtypes{text}"><content></content></objective></xdata.difinition>
   <xdata.exportlist />
