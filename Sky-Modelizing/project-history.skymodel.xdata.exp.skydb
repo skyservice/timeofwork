@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exports>
+  <export.list>
+    <ginit id="1" actionmode="3">
+      <name>interfaces\project</name>
+      <path>G:\tow\UI\ts-interface\project</path>
+    </ginit>
+  </export.list>
+</exports>
